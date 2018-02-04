@@ -1,0 +1,9 @@
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/bin/Debug/MvvmXSample.Core.pdb
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/bin/Debug/MvvmXSample.Core.dll
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/obj/Debug/MvvmXSample.Core.dll
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/obj/Debug/MvvmXSample.Core.pdb
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/bin/Debug/MvvmCross.Core.dll
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/bin/Debug/MvvmCross.Localization.dll

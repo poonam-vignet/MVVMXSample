@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{01697010-EC24-4AEF-BA9C-1376436D2190}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmXSample.Core/ViewModels/LoginViewModel.cs">
+    <Files>
+      <File FileName="MvvmXSample.Core/MyClass.cs" Line="1" Column="1" />
+      <File FileName="MvvmXSample.Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="MvvmXSample.Core/App.cs" Line="14" Column="21" />
+      <File FileName="MvvmXSample.iOS/ToDo-MvvmCross/_ iOS UI.txt" Line="4" Column="66" />
+      <File FileName="MvvmXSample.iOS/AppDelegate.cs.txt" Line="19" Column="32" />
+      <File FileName="MvvmXSample.iOS/AppDelegate.cs" Line="25" Column="34" />
+      <File FileName="MvvmXSample.iOS/Setup.cs" Line="16" Column="18" />
+      <File FileName="MvvmXSample.Core/ViewModels/MainViewModel.cs" Line="23" Column="27" />
+      <File FileName="MvvmXSample.iOS/Views/MainView.cs" Line="21" Column="47" />
+      <File FileName="MvvmXSample.iOS/Views/MainView.designer.cs" Line="19" Column="27" />
+      <File FileName="MvvmXSample.Droid/Views/MainView.cs" Line="17" Column="1" />
+      <File FileName="MvvmXSample.Droid/Setup.cs" Line="20" Column="10" />
+      <File FileName="MvvmXSample.iOS/ViewControllers/LoginViewController.cs" Line="18" Column="4" />
+      <File FileName="MvvmXSample.Core/ViewModels/LoginViewModel.cs" Line="12" Column="4" />
+      <File FileName="MvvmXSample.iOS/ViewControllers/LoginViewController.designer.cs" Line="28" Column="21" />
+      <File FileName="MvvmXSample.iOS/Main.cs" Line="12" Column="1" />
+      <File FileName="MvvmXSample.Core/ProjectConstants.cs" Line="4" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MvvmXSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.769F8EDA-7B28-4DEB-8A4F-1C00D72C7B06" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.NullReferenceException" includeSubclasses="True" />
+      <Breakpoint file="/Users/poonam.bhadikar/Projects/MvvmXSample.Core/MvvmXSample.Core/ViewModels/LoginViewModel.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MvvmXSample.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 4 (Marshmallow)" />
+</Properties>
